@@ -30,8 +30,8 @@ module.exports = {
     {
       resolve: `gatsby-source-contentful`,
       options: {
-        spaceId: `u2hjug1nowzr`,
-        accessToken: `sJJaBCxUdA4BFqtfR_f5y4m9lvmyOHa3siR8iEETKEc`,
+        spaceId: `xo34s2d6ya4l`,
+        accessToken: `P8K5kNsWfTFkc7lX-EP-SRgNcHKbKi5ewY8ZCkukguc`,
       },
     },
     `gatsby-plugin-postcss`,
